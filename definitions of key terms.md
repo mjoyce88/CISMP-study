@@ -45,5 +45,3 @@
 - **User Awareness Programs**: Educating users about security risks and best practices.
 - **Training and Certification**: Providing employees with relevant training and certifications to enhance security skills.
 - **Social Engineering**: Understanding common tactics used by attackers to manipulate individuals and gain unauthorized access.
-
-Remember to supplement this study guide with additional resources and practice exams to thoroughly prepare for the CISMP exam. Good luck with your studies!
